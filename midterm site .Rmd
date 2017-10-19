@@ -1,0 +1,10 @@
+---
+title: "5:30 Section"
+author: "Gillian McNally"
+date: "10/19/2017"
+output: html_document
+---
+Here is some arithmetic:
+x<-5
+y<-6
+x^2+y^2
