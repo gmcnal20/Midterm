@@ -4,7 +4,21 @@ author: "Gillian McNally"
 date: "10/19/2017"
 output: html_document
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+5:30 Section
+
+Gillian McNally
+
+October 19th, 2017
+
 Here is some arithmetic:
+
+```{r}
 x<-5
 y<-6
 x^2+y^2
+```
